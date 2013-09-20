@@ -12,13 +12,13 @@ This programm is write in python and only few commands are doing by OS (popen2.p
 
 
 Moduls
-    mailme.py              main modul
-        config.py          reading configuration (ini-file)  
-        cmds.py            commandos
-            snort.py       information about snort
-            mysql.py       access to mysql
-            syslog.py      information about syslog/messages
-        mail.py            sending Mail
+    mailme.py      main modul
+    config.py      reading configuration (ini-file)
+    cmds.py        commandos
+    snort.py       information about snort
+    mysql.py       access to mysql
+    syslog.py      information about syslog/messages
+    mail.py        sending Mail
 
 
 
