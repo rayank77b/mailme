@@ -1,0 +1,8 @@
+
+- snot and mysql modul must be write
+
+- improve README.TXT + information about ini-file
+
+- better comments 
+
+bug hunting ;)
